@@ -1,0 +1,3 @@
+C:\dev\ExplanaDll's\x64\Release\ExplanaDll's.exe
+Y:\Time\Ary\ExplanaDll's\x64\Release\ExplanaDll's.exe
+Y:\Time\Ary\ExplanaDll's\CodFont\x64\Release\ExplanaDll's.exe

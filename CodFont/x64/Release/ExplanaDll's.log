@@ -1,0 +1,12 @@
+﻿  DLLExportTableParser.cpp
+C:\LIEF-0.12.3-win64\include\LIEF\ELF\Parser.hpp(55,58): warning C4267: 'inicializando': conversão de 'size_t' para 'const uint32_t', possível perda de dados
+C:\LIEF-0.12.3-win64\include\LIEF\ELF\Parser.hpp(56,58): warning C4267: 'inicializando': conversão de 'size_t' para 'const uint32_t', possível perda de dados
+C:\LIEF-0.12.3-win64\include\LIEF\ELF\Parser.hpp(57,58): warning C4267: 'inicializando': conversão de 'size_t' para 'const uint32_t', possível perda de dados
+  LIEF will disable #define enums. Please use LIEF_PE_XXXX or LIEF::PE::XXXX instead!
+C:\LIEF-0.12.3-win64\include\LIEF\PE\ExportEntry.hpp(73,13): warning C4244: 'argumento': conversão de 'uint64_t' para 'uint32_t', possível perda de dados
+Y:\Time\Ary\ExplanaDll's\CodFont\DLLExportTableParser.cpp(77,34): warning C4101: 'ex': variável local não referenciada
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 1160 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  ExplanaDll's.vcxproj -> Y:\Time\Ary\ExplanaDll's\CodFont\x64\Release\ExplanaDll's.exe
